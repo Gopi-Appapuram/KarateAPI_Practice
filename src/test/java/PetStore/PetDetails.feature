@@ -117,3 +117,5 @@ Feature: Petstore API Tests
     When method delete
     Then status 200
     And match response contains { code: 200, type: 'success' }
+
+
