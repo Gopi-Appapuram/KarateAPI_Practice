@@ -1,6 +1,5 @@
 # new feature
 # Tags: optional
-@debug
 Feature:
 
     Background:
