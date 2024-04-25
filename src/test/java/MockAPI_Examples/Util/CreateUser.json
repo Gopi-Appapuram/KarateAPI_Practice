@@ -1,0 +1,14 @@
+{
+  "user": {
+    "id": null,
+    "createdAt": "2024-04-25T09:37:01.277Z",
+    "name": "John Singh",
+    "avatar": "https://www.example.com/avatar.png"
+  },
+  "expectedResponse": {
+    "id": "#string",
+    "createdAt": "#string",
+    "name": "#string",
+    "avatar": "#string"
+  }
+}
